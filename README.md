@@ -1,6 +1,9 @@
 # ownDynDNS
 Self-hosted dynamic DNS php script to update netcup DNS API from Router like AVM FRITZ!Box  
 
+## LogEnhancements Fork
+* Zappo-II [@Zappo-II](https://github.com/Zappo-II)
+
 ## Authors
 * Felix Kretschmer [@fernwerker](https://github.com/fernwerker)
 * Philipp Tempel [@philipptempel](https://github.com/philipptempel)
